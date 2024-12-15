@@ -7,5 +7,5 @@
 - Google Colab does not support tkinter module.
 -UI should appear.
 
-### Step 3: Upload desired `.txt` file.
--Program should output a `.txt` file with the huffman tree and the compressed text. 
+### Step 3: Upload desired text file.
+-Program should output a file with the huffman tree and the compressed text. 
